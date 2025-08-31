@@ -1,0 +1,10 @@
+p {
+    font-size: large;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+
+h3 {
+    text-transform: capitalize;
+    text-align: center;
+}
