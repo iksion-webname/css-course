@@ -1,0 +1,15 @@
+
+body{
+    margin: 0;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: #ff6347;
+    color: #f0f8ff;
+    margin: auto;
+    margin-top: 50px;
+    border: 15px solid #008000;
+    /*border-top-width: 30px;*/
+    border-top: 25px dashed rgb(112, 95, 95);
+}
