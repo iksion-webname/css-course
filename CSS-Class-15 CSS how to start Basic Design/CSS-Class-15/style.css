@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+}
+
+.product-area{
+    border: 5px solid red;
+}
+
+.product-area .product-title{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.product-area .product strong {
+    color: #a8070787;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.product-area .shipping-details{
+    font-weight: bold;
+    font-size: 18px;
+    color: gray;
+}
+
+.product-area .product .porduct-info ul{
+    list-style: circle;
+    font-weight: bold;
+    color: #5308ea;
+}
+
+.product-area .product-buy a,
+.product-area .product-buy a:link,
+.product-area .product-buy a:hover,
+.product-area .product-buy a:visited,
+.product-area .product-buy a:active {
+    text-decoration: none;
+    color: #ffff;
+    background-color: #011919fa;
+
+}
