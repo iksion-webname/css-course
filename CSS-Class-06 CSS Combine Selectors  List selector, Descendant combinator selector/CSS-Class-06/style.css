@@ -1,0 +1,27 @@
+
+p, h3, h2, h3, h1, h4 {
+    font-family: sans-serif;
+}
+
+p {
+    font-size: large;
+    color: red;
+}
+
+h3 {
+    text-transform: capitalize;
+}
+
+/* এখানে p tag টি হলো div এর ভিতরে রয়েছে । ভিতরের p tag টি হলো div এর  Child যা একটি ইসপেস দ্বার প্রকাশ করা হয়েছে । */
+div p {
+    color: blueviolet;
+}
+
+.para-1 p {
+    color: rgb(197, 4, 168);
+    font-size: 20px;
+}
+
+div ul li {
+    color: green;
+}
