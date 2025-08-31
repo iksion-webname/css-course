@@ -1,0 +1,25 @@
+
+h1 {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+li:first-child{
+    font-style: italic;
+}
+
+li:last-child{
+    font-weight: bold;
+}
+
+li:nth-child(3){
+    color: #ed53a8
+}
+
+
+li:nth-child(even){
+    background-color: #e7e710;
+}
+
+li:nth-child(odd){
+    background-color: #238fe741;
+}
