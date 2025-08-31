@@ -1,0 +1,37 @@
+
+h1{
+    color: rgb(215, 7, 7);
+}
+
+h2{
+    color: #0000ff; /* হেক্সাডেসিমেল */
+    background-color: #0db9e4cb;
+}
+
+h3{
+    color: rgba(255, 0, 0, 0.5)
+   
+}
+
+.h-2{
+    color: #ca1eb65d;
+}
+
+.b-1{
+    color: rgb(215, 0, 0);
+    background-color: #dbe20ab3;
+}
+
+h4 {
+    color: #ce3f0b;
+    border: 5px solid #15e43b;
+}
+
+h5 {
+    color: #0a0a0aac;
+    font-size: 20px;
+    border-top: 3px solid #d5171e;
+    border-bottom: 3px solid #0000ff;
+    border-left: 3px solid #15e43b;
+    border-right: 3px solid #d3ed0d;
+}
