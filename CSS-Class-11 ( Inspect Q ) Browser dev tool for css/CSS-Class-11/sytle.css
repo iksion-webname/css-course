@@ -1,0 +1,25 @@
+
+a {
+    color: #f74206;
+}
+
+a:link {
+    color: #af06f7;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #af06f7;
+}
+
+a:hover {
+    font-weight: bold;
+    color: #af06f7;
+    font-size: 20px;
+    text-decoration: underline wavy #e1070b;
+}
+
+a:active {
+    text-decoration: overline dotted burlywood;
+}
+
